@@ -5,7 +5,7 @@
 ### to run
 	* git clone & cd webpack-demo
 	* npm install
-	* ./node_modules/.bin/webpack src/index.js dist/bundle.js
+	* npm run build
 	* http-server
 		or
 	* open index.html in web browser
